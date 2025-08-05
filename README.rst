@@ -1,8 +1,8 @@
 
-AGESpec
+RandoSpanish
 ==================
 
-Spectroscopy with the AS5 Atomic Genesis Explorer (AGE)
+App for learning spanish
 
 Authors
 -------
@@ -14,11 +14,11 @@ Installation
 
 To install the latest version::
 
-    pip install git+https://github.com/dnidever/agespec
+    pip install git+https://github.com/dnidever/randospanish
 
 
 License
 -------
 
 .. image:: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
-        :target: https://github.com/dnidever/agespec/blob/main/LICENSE
+        :target: https://github.com/dnidever/randospanish/blob/main/LICENSE

@@ -1,0 +1,12 @@
+import os
+import numpy as np
+from . import utils
+
+DATA = utils.datadir()
+
+def randomizer():
+    """
+    Randomize
+    """
+
+    pass

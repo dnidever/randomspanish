@@ -1,2 +1,0 @@
-# randomspanish
-Spanish learning app

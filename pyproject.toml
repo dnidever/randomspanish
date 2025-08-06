@@ -14,10 +14,8 @@ dependencies = [
   "astropy",
   "dill",
   "dlnpyutils",
-  "emcee",
-  "corner",
-  "annieslasso",
   "gdown",
+  "pygame",
 ]
 requires-python = ">=3.9"
 #requires-python = ">=3.11"
